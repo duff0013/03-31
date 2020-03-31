@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
+// This is an example of Map interface with some concrete classes
 public class MapExample {
     public static Map<String, Integer> generateMap(){
         List<String> list = Arrays.asList( "one", "two", "three", "four");
